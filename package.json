@@ -1,0 +1,28 @@
+{
+  "name": "testPackageGA",
+  "version": "1.0.0",
+  "description": "Create test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PriyankaLaku/testPackageGA.git"
+  },
+  "keywords": [],
+  "author": "“Priyanka <“l.priyanka@verchaska.com”>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PriyankaLaku/testPackageGA/issues"
+  },
+  "homepage": "https://github.com/PriyankaLaku/testPackageGA#readme",
+  "devDependencies": {
+    "@types/pluralize": "0.0.29",
+    "typescript": "^3.0.1"
+  },
+  "dependencies": {
+    "pluralize": "^7.0.0"
+  }
+}
